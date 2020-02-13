@@ -1,0 +1,71 @@
+body {
+    color:black;
+    background-color:white;
+    background-image:url(/image/automotive-1727410_1920.jpg);
+    background-color: #00355D;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+label{
+    color:  white;
+}
+
+.btn {
+    width: 33%;
+}
+
+.fco {
+    color: white;
+}
+
+.connexion {
+    text-decoration: none;
+    color: white;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 1%;
+    font-size: 3em;
+    color: white;
+}
+
+.douze {
+    margin-top: 15%;
+    margin-bottom: 7%;
+}
+
+@media  (max-width: 600px) {
+
+    label{
+        color:  white;
+    }
+    
+    .btn {
+        width: 33%;
+    }
+    
+    .fco {
+        color: white;
+    }
+    
+    .connexion {
+        text-decoration: none;
+        color: white;
+    }
+    
+    h4 {
+        text-align: center;
+        margin-top: 1%;
+        font-size: 0.9em;
+        color: white;
+    }
+    
+    .douze {
+        margin-top: 15%;
+        margin-bottom: 7%;
+        text-align: center;
+    }
+
+}

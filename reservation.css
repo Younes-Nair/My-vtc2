@@ -1,0 +1,160 @@
+body {
+    color:black;
+    background-color: #00355D;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h4 {
+     color: white;
+     text-align: center;
+     font-size: 200%;
+
+}
+
+.btn {
+    width: 100%;
+}
+
+h3 {
+    color: white;
+}
+
+.img {
+    width: 35em;
+}
+
+
+@media  (max-width: 600px) {
+    h4 {
+        color: white;
+        text-align: center;
+        font-size: 1em;
+   
+   }
+   
+   .btn {
+       width: 5em;
+   }
+   
+   h3 {
+       color: white;
+       font-size : 1em;
+   }
+   
+   .img {
+       width: 7em;
+   }
+   
+}
+
+
+@media (min-width: 600px) {
+    h4 {
+        color: white;
+        text-align: center;
+        font-size: 200%;
+   
+   }
+   
+   .btn {
+       width: 100%;
+   }
+   
+   h3 {
+       color: white;
+   }
+   
+   .img {
+       width: 35em;
+   }
+   
+}
+
+@media  (min-width: 768px) {
+    h4 {
+        color: white;
+        text-align: center;
+        font-size: 200%;
+   
+   }
+   
+   .btn {
+       width: 100%;
+   }
+   
+   h3 {
+       color: white;
+   }
+   
+   .img {
+       width: 35em;
+   }
+   
+}
+@media  (min-width: 768px) {
+    h4 {
+        color: white;
+        text-align: center;
+        font-size: 200%;
+   
+   }
+   
+   .btn {
+       width: 100%;
+   }
+   
+   h3 {
+       color: white;
+   }
+   
+   .img {
+       width: 35em;
+   }
+   
+}
+@media  (min-width: 992px) {
+    h4 {
+        color: white;
+        text-align: center;
+        font-size: 200%;
+   
+   }
+   
+   .btn {
+       width: 100%;
+   }
+   
+   h3 {
+       color: white;
+   }
+   
+   .img {
+       width: 35em;
+   }
+   
+}
+@media (min-width: 1200px) {
+    h4 {
+        color: white;
+        text-align: center;
+        font-size: 200%;
+   
+   }
+   
+   .btn {
+       width: 100%;
+   }
+   
+   h3 {
+       color: white;
+   }
+   
+   .img {
+       width: 35em;
+   }
+   
+}
+
+
+

@@ -1,0 +1,449 @@
+body {
+    color:black;
+    background-color: #00355D;
+    /* background-image:url(a-propos.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* .un {
+    margin-top: 20%;
+}
+
+.deux {
+    margin-top: 2%;
+}
+
+h4 {
+    color: white;
+    font-size: 280%;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 1%;
+    font-size: 350%;
+    color: white;
+}
+
+.trois {
+    margin-top: 19%;
+}
+
+.quatre {
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 82%;
+}
+
+.cinq {
+    margin-top: 8%;
+}
+
+.six {
+    margin-top: 10%;
+} 
+
+.sept {
+    margin-top: 10%;
+}
+
+.huit {
+    margin-top: 3%;
+}
+
+.neuf {
+    margin-top: 4%;
+} 
+
+.dix {
+    margin-top: 4%;
+}
+
+.onze {
+    margin-top: 50%;
+} */
+
+
+
+
+
+@media  (max-width: 600px) {
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 2%;
+    }
+    
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+        margin-top: 1%;
+        font-size: 1em;
+        color: white;
+    }
+    
+    .trois {
+        margin-top: 19%;
+    }
+    
+    .quatre {
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 7em;
+        height: 7em;
+    }
+    
+    .cinq {
+        margin-top: 8%;
+    }
+    
+    .six {
+        margin-top: 10%;
+    } 
+    
+    .sept {
+        margin-top: 10%;
+    }
+    
+    .huit {
+        margin-top: 3%;
+    }
+    
+    .neuf {
+        margin-top: 4%;
+    } 
+    
+    .dix {
+        margin-top: 4%;
+    }
+    
+    .onze {
+        margin-top: 50%;
+    }
+
+    .treize {
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 6em;
+        height: 12em;
+    }
+}
+
+
+
+@media (min-width: 600px) {
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 2%;
+    }
+    
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+        margin-top: 1%;
+        font-size: 1em;
+        color: white;
+    }
+    
+    .trois {
+        margin-top: 19%;
+    }
+    
+    .quatre {
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 80%;
+        height: 82%;
+    }
+    
+    .cinq {
+        margin-top: 8%;
+    }
+    
+    .six {
+        margin-top: 10%;
+    } 
+    
+    .sept {
+        margin-top: 10%;
+    }
+    
+    .huit {
+        margin-top: 3%;
+    }
+    
+    .neuf {
+        margin-top: 4%;
+    } 
+    
+    .dix {
+        margin-top: 4%;
+    }
+    
+    .onze {
+        margin-top: 50%;
+    }
+}
+
+@media  (min-width: 768px) {
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 2%;
+    }
+    
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+        margin-top: 1%;
+        font-size: 1em;
+        color: white;
+    }
+    
+    .trois {
+        margin-top: 19%;
+    }
+    
+    .quatre {
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 80%;
+        height: 82%;
+    }
+    
+    .cinq {
+        margin-top: 8%;
+    }
+    
+    .six {
+        margin-top: 10%;
+    } 
+    
+    .sept {
+        margin-top: 10%;
+    }
+    
+    .huit {
+        margin-top: 3%;
+    }
+    
+    .neuf {
+        margin-top: 4%;
+    } 
+    
+    .dix {
+        margin-top: 4%;
+    }
+    
+    .onze {
+        margin-top: 50%;
+    }
+}
+@media  (min-width: 768px) {
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 2%;
+    }
+    
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+        margin-top: 1%;
+        font-size: 1em;
+        color: white;
+    }
+    
+    .trois {
+        margin-top: 19%;
+    }
+    
+    .quatre {
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 80%;
+        height: 82%;
+    }
+    
+    .cinq {
+        margin-top: 8%;
+    }
+    
+    .six {
+        margin-top: 10%;
+    } 
+    
+    .sept {
+        margin-top: 10%;
+    }
+    
+    .huit {
+        margin-top: 3%;
+    }
+    
+    .neuf {
+        margin-top: 4%;
+    } 
+    
+    .dix {
+        margin-top: 4%;
+    }
+    
+    .onze {
+        margin-top: 50%;
+    }
+}
+@media  (min-width: 992px) {
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 2%;
+    }
+    
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+        margin-top: 1%;
+        font-size: 1em;
+        color: white;
+    }
+    
+    .trois {
+        margin-top: 19%;
+    }
+    
+    .quatre {
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 80%;
+        height: 82%;
+    }
+    
+    .cinq {
+        margin-top: 8%;
+    }
+    
+    .six {
+        margin-top: 10%;
+    } 
+    
+    .sept {
+        margin-top: 10%;
+    }
+    
+    .huit {
+        margin-top: 3%;
+    }
+    
+    .neuf {
+        margin-top: 4%;
+    } 
+    
+    .dix {
+        margin-top: 4%;
+    }
+    
+    .onze {
+        margin-top: 50%;
+    }
+}
+@media (min-width: 1200px) {
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 2%;
+    }
+    
+    h4 {
+        color: white;
+        font-size: 2.5em;
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+        margin-top: 1%;
+        font-size: 2.5em;
+        color: white;
+    }
+    
+    .trois {
+        margin-top: 19%;
+    }
+    
+    .quatre {
+        margin-left: 10%;
+        margin-top: 10%;
+        width: 80%;
+        height: 82%;
+    }
+    
+    .cinq {
+        margin-top: 8%;
+    }
+    
+    .six {
+        margin-top: 10%;
+    } 
+    
+    .sept {
+        margin-top: 10%;
+    }
+    
+    .huit {
+        margin-top: 3%;
+    }
+    
+    .neuf {
+        margin-top: 4%;
+    } 
+    
+    .dix {
+        margin-top: 4%;
+    }
+    
+    .onze {
+        margin-top: 50%;
+    }
+}

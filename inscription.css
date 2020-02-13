@@ -1,0 +1,61 @@
+body {
+    color:black;
+    background-color: #00355D;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img-fluid {
+    align-content: center;
+}
+
+label{
+    color:  white;
+}
+
+.inf {
+    text-align: center;
+    color: white;
+}
+
+.card {
+    background-color: #00355D;
+}
+
+.ins {
+    color: white;
+}
+
+.rounded {
+    width: 30em;
+}
+
+@media  (max-width: 600px) {
+
+    .img-fluid {
+        align-content: center;
+    }
+    
+    label{
+        color:  white;
+    }
+    
+    .inf {
+        text-align: center;
+        color: white;
+    }
+    
+    .card {
+        background-color: #00355D;
+    }
+    
+    .ins {
+        color: white;
+    }
+    
+    .rounded {
+        width: 15em;
+    }
+
+
+}

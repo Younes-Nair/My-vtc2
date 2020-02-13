@@ -1,0 +1,118 @@
+body {
+    color:black;
+    background-color: #00355D;
+    background-image: url(/image/automotive-1727410_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* h4 {
+    color: white;
+    font-size: 3.5em;
+    text-align: center;
+}
+
+.un {
+    margin-top: 20%;
+}
+
+.deux {
+    margin-top: 10%;
+} */
+
+
+@media  (max-width: 600px) {
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 10%;
+    }
+}
+
+
+@media (min-width: 600px) {
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 10%;
+    }
+}
+
+@media  (min-width: 768px) {
+    h4 {
+        color: white;
+        font-size: 0.5em;
+        text-align: center;
+    }
+    
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 10%;
+    }
+}
+@media  (min-width: 768px) {
+    h4 {
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 10%;
+    }
+}
+@media  (min-width: 992px) {
+    h4 {
+        color: white;
+        font-size: 3.5em;
+        text-align: center;
+    }
+    
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 10%;
+    }
+}
+@media (min-width: 1200px) {
+    h4 {
+        color: white;
+        font-size: 3.5em;
+        text-align: center;
+    }
+    
+    .un {
+        margin-top: 20%;
+    }
+    
+    .deux {
+        margin-top: 10%;
+    }
+}
+
+
